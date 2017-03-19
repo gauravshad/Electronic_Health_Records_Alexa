@@ -2,10 +2,6 @@
 
 We are focusing on the problem of managing Electronic Health Records, also known as EHRs. EHRs are still not available in many developing countries and the busy environment in the medical field makes it difficult for healthcare professionals to keep it updated. Now in the age of Alexa, these professionals now just have to talk to Alexa and tell her all the records they wanna update or fetch and Alexa will do the rest. Yes, they just have to tell the information and Alexa will update the EHRs.
 
-## Contents
-
-## Usage
-
 ## Setup
 To run this skill you need to do two things. The first is to deploy the example code in lambda, and the second is to configure the Alexa skill to use Lambda.
 
@@ -37,8 +33,8 @@ To run this skill you need to do two things. The first is to deploy the example 
 8. In order to test it, try to say some of the Sample Utterances from the Examples section below.
 9. The skill is now saved and once you are finished testing you can continue to use it.
 
-## Examples
-### One-shot model:
+### Examples
+#### One-shot model:
     User: "Alexa, start the Electronic Health Record System."
     Alexa: "Welcome to the Electronic Health Record System!"
 
