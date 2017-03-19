@@ -1,28 +1,17 @@
-# Java Alexa Skills Kit SDK & Samples
+# Electronic Health Records Alexa
+
+We are focusing on the problem of managing Electronic Health Records, also known as EHRs. EHRs are still not available in many developing countries and the busy environment in the medical field makes it difficult for healthcare professionals to keep it updated. Now in the age of Alexa, these professionals now just have to talk to Alexa and tell her all the records they wanna update or fetch and Alexa will do the rest. Yes, they just have to tell the information and Alexa will update the EHRs.
 
 ##Alexa Skills Kit Documentation
 The documentation for the Alexa Skills Kit is available on the [Amazon Apps and Services Developer Portal](https://developer.amazon.com/appsandservices/solutions/alexa/alexa-skills-kit/).
 
 ## Contents
-The included samples represent how to use Java AWS Lambda functions as Alexa Skills.
-The following samples are included (ordered by complexity, see the Using Alexa Skills Kit Samples
-link below for more details):
-
-- HelloWorld: a simple skill that repeats Hello World! on user input
-- SpaceGeek : a simple skill that responds to the user with a space fact.
-- Session: a simple skill that asks for your favorite color, then repeats it back to you using session attributes.
-- MinecraftHelper : a simple skill that responds to the user's recipe queries with formulas.
-- WiseGuy : a skill that tells knock knock jokes.
-- HistoryBuff : a skill that gives historical information that happened on a user provided day.
-- Savvy Consumer : a skill that looks up a category on Amazon and returns the best selling products.
-- TidePooler : a skill that looks up tide information for various cities.
-- ScoreKeeper : a skill that can keep score of a game.
 
 ## Usage
-Navigate to the README.md in each sub directory in the samples folder and follow the instructions for getting the sample up and running.
+
 
 ## Resources
-Here are a few direct links to our documentation:
+Here are a few direct links to Amazon's documentation that helped us in our project:
 
 - [Using the Alexa Skills Kit Samples](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/using-the-alexa-skills-kit-samples)
 - [Getting Started](https://developer.amazon.com/appsandservices/solutions/alexa/alexa-skills-kit/getting-started-guide)
