@@ -1,0 +1,24 @@
+StartEnterProcess enter record
+StartEnterProcess enter log
+StartEnterProcess enter patient data
+StartEnterProcess i want to enter record
+StartEnterProcess i want to enter log
+StartEnterProcess i want to enter data
+EnterTaxId tax id is {PID}
+EnterTaxId tax id {PID}
+EnterTaxId tax is {PID}
+EnterRecord patient id {PID} symptoms {Symptoms} disease {Disease} treatment {Treatment}
+EnterRecord attending patient with id {PID} symptoms {Symptoms} disease {Disease} treatment {Treatment}
+EnterRecord patient with id {PID} having symptoms {Symptoms} possible disease {Disease} suggested treatment {Treatment}
+EnterRecord currently attending patient with id {PID} symptoms {Symptoms} disease {Disease} treatment {Treatment}
+StartFetchProcess fetch record
+FetchRecord fetch record of patient number {PID}
+AMAZON.YesIntent yes
+AMAZON.YesIntent yes i would like to enter more
+AMAZON.StopIntent no
+AMAZON.StopIntent no turn it off
+AMAZON.StopIntent turn it off
+AMAZON.StopIntent shut down
+Emergency Alexa emergency {PID}
+Emergency emergency {PID}
+Emergency Alexa help {PID}

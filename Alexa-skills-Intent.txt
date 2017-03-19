@@ -1,0 +1,73 @@
+
+
+{
+  "intents": [
+    {
+      "intent": "StartEnterProcess"
+    },
+    {
+      "intent": "EnterTaxId",
+      "slots":[
+        {
+          "name": "PID",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "EnterRecord",
+      "slots":[
+        {
+          "name": "PID",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "Symptoms",
+          "type": "LIST_SYMPTOMS"
+        },
+        {
+          "name": "Disease",
+          "type": "LIST_DISEASE"
+        },
+        {
+          "name": "Treatment",
+          "type": "LIST_TREATMENT"
+        }
+      ]
+    },
+    {
+      "intent": "StartFetchProcess"
+    },
+    {
+      "intent": "FetchRecord",
+      "slots":[
+        {
+          "name": "PID",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "Emergency",
+       "slots":[
+        {
+          "name": "PID",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
