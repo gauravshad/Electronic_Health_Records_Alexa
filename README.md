@@ -2,13 +2,12 @@
 
 We are focusing on the problem of managing Electronic Health Records, also known as EHRs. EHRs are still not available in many developing countries and the busy environment in the medical field makes it difficult for healthcare professionals to keep it updated. Now in the age of Alexa, these professionals now just have to talk to Alexa and tell her all the records they wanna update or fetch and Alexa will do the rest. Yes, they just have to tell the information and Alexa will update the EHRs.
 
-##Alexa Skills Kit Documentation
-The documentation for the Alexa Skills Kit is available on the [Amazon Apps and Services Developer Portal](https://developer.amazon.com/appsandservices/solutions/alexa/alexa-skills-kit/).
-
 ## Contents
 
 ## Usage
 
+## Alexa Skills Kit Documentation
+The documentation for the Alexa Skills Kit used in this project is available on the [Amazon Apps and Services Developer Portal](https://developer.amazon.com/appsandservices/solutions/alexa/alexa-skills-kit/).
 
 ## Resources
 Here are a few direct links to Amazon's documentation that helped us in our project:
