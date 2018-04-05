@@ -35,7 +35,7 @@ import com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBTable;
 import com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBTableMapper;
 
 
-
+//connectivity class to connect with Amazon Dynamo
 public class DynamoConnectivity{
 
 	Encryption en = new Encryption();
